@@ -1,2 +1,2 @@
 # linguistics
-Contains information about linguistic projects 
+Contains information about linguistic projects.
